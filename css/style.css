@@ -1,0 +1,39 @@
+body{
+    background-color: lightsteelblue;
+}
+div{
+    height: 30px;
+    margin: 5px;
+}
+.edit1{
+    display: inline-block;
+}
+h3{
+    text-align: left;
+}
+input[type=text]{
+    width: 400px;
+    height: 30px;
+    margin:auto;
+    padding: auto;
+}
+input[name=Subject]{
+    width: 820px;
+    height: 30px;
+    padding: auto;
+}
+input[name=Message]{
+    width: 820px;
+    height: 300px;
+    padding: auto;
+}
+input[type=submit]{
+    width: 120px;
+    height: 40px;
+    border-radius: 6px ;
+    background-color: rgb(65, 165, 231);
+    color: white;
+}
+td{
+    text-align: right;
+}
